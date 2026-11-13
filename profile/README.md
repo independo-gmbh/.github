@@ -10,7 +10,8 @@ This organization hosts the parts of that work we can share openly: developer to
 
 | Project | Status | Description |
 |---|---|---|
-| [IndeRun](https://github.com/independo-gmbh/inderun) | Active development | Cross-platform AI execution framework giving apps one API for running tasks on-device, at the edge, or via cloud providers, without vendor lock-in. Funded by [netidee](https://www.netidee.at/inderun). |
+| [IndeRun](https://github.com/independo-gmbh/inderun) | Active development | On-device AI for the devices your users actually have: one API for Capacitor, web, iOS and Android that runs a task on the device when it can and uses a cloud only when the app allows it. Docs at [inderun.dev](https://inderun.dev). Funded by [netidee](https://www.netidee.at/inderun). |
+| [IndeRun for Capacitor](https://github.com/independo-gmbh/capacitor-inderun) | Active development | Capacitor plugin for IndeRun: on-device text tasks and read-aloud on iOS, Android, and Web, with a cloud route only when the app allows it. |
 | [Capacitor Voice Recorder](https://github.com/independo-gmbh/capacitor-voice-recorder) | Actively maintained | Capacitor plugin for audio recording on iOS, Android, and Web. |
 | [Capacitor Emoji Picker](https://github.com/independo-gmbh/capacitor-emoji-picker) | Actively maintained | Capacitor plugin for emoji selection on iOS, Android, and Web. |
 | [Leaflet MapKitMutant](https://github.com/independo-gmbh/leaflet-mapkitmutant) | Maintained fork | TypeScript port enabling Apple MapKit JS basemaps in Leaflet. A maintained fork of [Leaflet.MapkitMutant](https://gitlab.com/IvanSanchez/Leaflet.MapkitMutant) by Ivan Sánchez Ortega. |
